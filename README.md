@@ -107,9 +107,9 @@ Pull requests and suggestions are welcome! For major changes, please open an iss
 
 For any queries, feel free to contact:
 
-**Byleen Janet Roy**  
-[GitHub Profile](https://github.com/your-github-username)  
-Email: yourname@example.com
+**Keerthana S**  
+[GitHub Profile]([https://github.com/your-github-username](https://github.com/Keerthana-2276/Elevate_Labs_task2/))  
+Email: keerthanas.25csa@licet.ac.in
 
 ---
 
